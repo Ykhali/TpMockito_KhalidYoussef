@@ -1,3 +1,5 @@
+package mock1;
+
 public class Cercle implements IForme {
 
     private double rayon;

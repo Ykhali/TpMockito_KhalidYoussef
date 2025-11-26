@@ -1,3 +1,5 @@
+package mock1;
+
 public class Carre {
     private double cote;
     public Carre(double cote) {

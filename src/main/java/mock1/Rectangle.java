@@ -1,3 +1,5 @@
+package mock1;
+
 public class Rectangle implements IForme{
 
     private double largeur;
