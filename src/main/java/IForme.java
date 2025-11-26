@@ -1,3 +1,3 @@
 public interface IForme {
-    public double aire();
+    double aire();
 }
